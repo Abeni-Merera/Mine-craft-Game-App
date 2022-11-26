@@ -1,0 +1,5 @@
+.btncase:hover {
+    opacity: 0.5;
+    border: none;
+    border-radius: 0.5%;
+}
